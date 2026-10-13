@@ -11,7 +11,6 @@ cask "aftersay" do
 
   depends_on macos: ">= :tahoe"
   depends_on arch: :arm64
-  auto_updates true
 
   app "Aftersay.app"
 
