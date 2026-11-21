@@ -1,9 +1,7 @@
 # Homebrew tap
 
-```bash
+Install [Aftersay](https://aftersay.cohencool.workers.dev), a private meeting notes app for Mac.
+
+```sh
 brew install --cask cococool13/tap/aftersay
 ```
-
-| Cask | App |
-|---|---|
-| `aftersay` | [Aftersay](https://aftersay.cohencool.workers.dev): free, private meeting notes for Mac |
